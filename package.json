@@ -1,0 +1,9 @@
+{
+  "name": "restaurant-website",
+  "version": "1.0.0",
+  "description": "Foodie's Delight Restaurant Website",
+  "scripts": {
+    "start": "npx serve"
+  },
+  "private": true
+}
